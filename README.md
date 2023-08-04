@@ -29,5 +29,5 @@ Feel free to provide feedback or report bugs by opening an issue on this GitHub 
 
 LICENSE:
 
-This project is licensed under the MIT License. See 'LICENSE' for more details.
+licensed under the Creative Commons Attribution-NonCommercial license
 
